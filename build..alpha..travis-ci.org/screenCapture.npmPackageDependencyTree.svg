@@ -1,57 +1,59 @@
-<svg height="862" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="862" fill="#555" width="720"></rect>
+<svg height="894" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="894" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">3 megabytes</tspan>
-<tspan x="10" y="42">└─┬ pushstate-server@3.0.0 </tspan>
-<tspan x="10" y="58">  ├─┬ compression@1.6.2 </tspan>
-<tspan x="10" y="74">  │ ├─┬ accepts@1.3.3 </tspan>
-<tspan x="10" y="90">  │ │ ├── mime-types@2.1.15 </tspan>
-<tspan x="10" y="106">  │ │ └── negotiator@0.6.1 </tspan>
-<tspan x="10" y="122">  │ ├── bytes@2.3.0 </tspan>
-<tspan x="10" y="138">  │ ├─┬ compressible@2.0.10 </tspan>
-<tspan x="10" y="154">  │ │ └── mime-db@1.27.0 </tspan>
-<tspan x="10" y="170">  │ ├─┬ debug@2.2.0 </tspan>
-<tspan x="10" y="186">  │ │ └── ms@0.7.1 </tspan>
-<tspan x="10" y="202">  │ ├── on-headers@1.0.1 </tspan>
-<tspan x="10" y="218">  │ └── vary@1.1.1 </tspan>
-<tspan x="10" y="234">  ├─┬ connect@3.6.0 </tspan>
-<tspan x="10" y="250">  │ ├─┬ debug@2.6.1 </tspan>
-<tspan x="10" y="266">  │ │ └── ms@0.7.2 </tspan>
-<tspan x="10" y="282">  │ ├─┬ finalhandler@1.0.0 </tspan>
-<tspan x="10" y="298">  │ │ ├─┬ debug@2.6.1 </tspan>
-<tspan x="10" y="314">  │ │ │ └── ms@0.7.2 </tspan>
-<tspan x="10" y="330">  │ │ ├─┬ on-finished@2.3.0 </tspan>
-<tspan x="10" y="346">  │ │ │ └── ee-first@1.1.1 </tspan>
-<tspan x="10" y="362">  │ │ ├── statuses@1.3.1 </tspan>
-<tspan x="10" y="378">  │ │ └── unpipe@1.0.0 </tspan>
-<tspan x="10" y="394">  │ ├── parseurl@1.3.1 </tspan>
-<tspan x="10" y="410">  │ └── utils-merge@1.0.0 </tspan>
-<tspan x="10" y="426">  ├─┬ connect-static-file@1.1.2 </tspan>
-<tspan x="10" y="442">  │ ├── mime@1.3.4 </tspan>
-<tspan x="10" y="458">  │ └─┬ send@0.12.3 </tspan>
-<tspan x="10" y="474">  │   ├── depd@1.0.1 </tspan>
-<tspan x="10" y="490">  │   ├── destroy@1.0.3 </tspan>
-<tspan x="10" y="506">  │   ├── escape-html@1.0.1 </tspan>
-<tspan x="10" y="522">  │   ├─┬ etag@1.6.0 </tspan>
-<tspan x="10" y="538">  │   │ └── crc@3.2.1 </tspan>
-<tspan x="10" y="554">  │   ├── fresh@0.2.4 </tspan>
-<tspan x="10" y="570">  │   ├─┬ on-finished@2.2.1 </tspan>
-<tspan x="10" y="586">  │   │ └── ee-first@1.1.0 </tspan>
-<tspan x="10" y="602">  │   └── range-parser@1.0.3 </tspan>
-<tspan x="10" y="618">  └─┬ serve-static@1.12.0 </tspan>
-<tspan x="10" y="634">    ├── encodeurl@1.0.1 </tspan>
-<tspan x="10" y="650">    ├── escape-html@1.0.3 </tspan>
-<tspan x="10" y="666">    └─┬ send@0.15.0 </tspan>
-<tspan x="10" y="682">      ├── debug@2.6.1 </tspan>
-<tspan x="10" y="698">      ├── depd@1.1.0 </tspan>
-<tspan x="10" y="714">      ├── destroy@1.0.4 </tspan>
-<tspan x="10" y="730">      ├── etag@1.8.0 </tspan>
-<tspan x="10" y="746">      ├── fresh@0.5.0 </tspan>
-<tspan x="10" y="762">      ├─┬ http-errors@1.6.1 </tspan>
-<tspan x="10" y="778">      │ ├── depd@1.1.0 </tspan>
-<tspan x="10" y="794">      │ ├── inherits@2.0.3 </tspan>
-<tspan x="10" y="810">      │ └── setprototypeof@1.0.3 </tspan>
-<tspan x="10" y="826">      ├── ms@0.7.2 </tspan>
-<tspan x="10" y="842">      └── range-parser@1.2.0</tspan>
+<tspan x="10" y="26">3 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ pushstate-server@3.0.0 </tspan>
+<tspan x="10" y="90">  ├─┬ compression@1.6.2 </tspan>
+<tspan x="10" y="106">  │ ├─┬ accepts@1.3.3 </tspan>
+<tspan x="10" y="122">  │ │ ├── mime-types@2.1.15 </tspan>
+<tspan x="10" y="138">  │ │ └── negotiator@0.6.1 </tspan>
+<tspan x="10" y="154">  │ ├── bytes@2.3.0 </tspan>
+<tspan x="10" y="170">  │ ├─┬ compressible@2.0.10 </tspan>
+<tspan x="10" y="186">  │ │ └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="202">  │ ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="218">  │ │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="234">  │ ├── on-headers@1.0.1 </tspan>
+<tspan x="10" y="250">  │ └── vary@1.1.1 </tspan>
+<tspan x="10" y="266">  ├─┬ connect@3.6.0 </tspan>
+<tspan x="10" y="282">  │ ├─┬ debug@2.6.1 </tspan>
+<tspan x="10" y="298">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="314">  │ ├─┬ finalhandler@1.0.0 </tspan>
+<tspan x="10" y="330">  │ │ ├─┬ debug@2.6.1 </tspan>
+<tspan x="10" y="346">  │ │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="362">  │ │ ├─┬ on-finished@2.3.0 </tspan>
+<tspan x="10" y="378">  │ │ │ └── ee-first@1.1.1 </tspan>
+<tspan x="10" y="394">  │ │ ├── statuses@1.3.1 </tspan>
+<tspan x="10" y="410">  │ │ └── unpipe@1.0.0 </tspan>
+<tspan x="10" y="426">  │ ├── parseurl@1.3.1 </tspan>
+<tspan x="10" y="442">  │ └── utils-merge@1.0.0 </tspan>
+<tspan x="10" y="458">  ├─┬ connect-static-file@1.1.2 </tspan>
+<tspan x="10" y="474">  │ ├── mime@1.3.4 </tspan>
+<tspan x="10" y="490">  │ └─┬ send@0.12.3 </tspan>
+<tspan x="10" y="506">  │   ├── depd@1.0.1 </tspan>
+<tspan x="10" y="522">  │   ├── destroy@1.0.3 </tspan>
+<tspan x="10" y="538">  │   ├── escape-html@1.0.1 </tspan>
+<tspan x="10" y="554">  │   ├─┬ etag@1.6.0 </tspan>
+<tspan x="10" y="570">  │   │ └── crc@3.2.1 </tspan>
+<tspan x="10" y="586">  │   ├── fresh@0.2.4 </tspan>
+<tspan x="10" y="602">  │   ├─┬ on-finished@2.2.1 </tspan>
+<tspan x="10" y="618">  │   │ └── ee-first@1.1.0 </tspan>
+<tspan x="10" y="634">  │   └── range-parser@1.0.3 </tspan>
+<tspan x="10" y="650">  └─┬ serve-static@1.12.0 </tspan>
+<tspan x="10" y="666">    ├── encodeurl@1.0.1 </tspan>
+<tspan x="10" y="682">    ├── escape-html@1.0.3 </tspan>
+<tspan x="10" y="698">    └─┬ send@0.15.0 </tspan>
+<tspan x="10" y="714">      ├── debug@2.6.1 </tspan>
+<tspan x="10" y="730">      ├── depd@1.1.0 </tspan>
+<tspan x="10" y="746">      ├── destroy@1.0.4 </tspan>
+<tspan x="10" y="762">      ├── etag@1.8.0 </tspan>
+<tspan x="10" y="778">      ├── fresh@0.5.0 </tspan>
+<tspan x="10" y="794">      ├─┬ http-errors@1.6.1 </tspan>
+<tspan x="10" y="810">      │ ├── depd@1.1.0 </tspan>
+<tspan x="10" y="826">      │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="842">      │ └── setprototypeof@1.0.3 </tspan>
+<tspan x="10" y="858">      ├── ms@0.7.2 </tspan>
+<tspan x="10" y="874">      └── range-parser@1.2.0</tspan>
 </text>
 </svg>
